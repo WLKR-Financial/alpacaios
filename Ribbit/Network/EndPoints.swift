@@ -8,7 +8,7 @@
 import Foundation
 
 struct EndPoint {
-    static let kServerBase = "http://35.193.43.181:8080/"
+    static let kServerBase = "https://app.walkrfinance.com/"
     static let signup = "signup"
     static let login = "login"
     static let otp = "verification/"
